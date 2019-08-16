@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="upload" type="id">upload</item>
+    <item name="imageView" type="id">imageView</item>
+    <item name="activity_main" type="id" />
+    <item name="uploadfiles" type="id" />
+    <item name="viewqr" type="id" />
+    <item name="scanqr" type="id" />
+</resources>
